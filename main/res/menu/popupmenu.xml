@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        app:showAsAction="always"
+        android:icon="@drawable/ic_baseline_menu_24"
+        android:title="More options">
+
+    <menu>
+    <item android:id="@+id/nav_share"
+        android:icon="@drawable/ic_baseline_share_24"
+        android:title="Share this content."
+        app:showAsAction="never"/>
+
+
+    <item android:id="@+id/nav_flag"
+        android:icon="@drawable/ic_baseline_flag_24"
+        android:title="Flag this content."
+        app:showAsAction="never"/>
+
+</menu>
+    </item>
+
+</menu>

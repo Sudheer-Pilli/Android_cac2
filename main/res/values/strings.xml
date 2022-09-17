@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Intent Activity</string>
+    <string name="submit">submit</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="welcome_to_sandy_furnitures">Welcome to Travell Volog</string>
+    <string name="reallylongtext">The Maldives is an archipelagic state situated in the Indian Ocean known for its luxurious water villas. A tropical haven of white sand beaches, the Maldives is located in the south of Sri Lanka and is ideal for an adventure, honeymoon, or leisure holiday. \'Content here, content here\'</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="about_text">Travell Vlog will help you find destinations to travell and make necessaery arrangements, we have started this right after covid 19 to help people travel safely to the destination, we have various ranges which will help you fing the right price to travell</string>
+    <string-array name="prof">
+        <item>Traveller</item>
+        <item>Visitor</item>
+        <item>Home</item>
+<!--        <item>Native</item>-->
+<!--        <item>Teacher</item>-->
+<!--        <item>Other</item>-->
+
+    </string-array>
+</resources>
